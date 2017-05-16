@@ -1,4 +1,4 @@
-package com.mojonetworks.apiClient.accessor.common.mlp;
+package com.mojonetworks.api.client.accessor.common.mlp;
 
 import java.util.HashMap;
 import java.util.Map;
